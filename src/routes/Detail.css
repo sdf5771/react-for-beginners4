@@ -1,0 +1,10 @@
+.imgRadius{
+    border-top-left-radius: 50px;
+    border-top-right-radius: 150px 200px;
+    border-bottom-left-radius: 100px 70px;
+    border-bottom-right-radius: 0;
+}
+
+.sexyFont{
+    font-family:fantasy;
+}
